@@ -1,3 +1,8 @@
+bpmn-js-custom-panel
+
+-----------------------------------------
+
+
 # bpmn-js-properties-panel
 
 [![CI](https://github.com/bpmn-io/bpmn-js-properties-panel/workflows/CI/badge.svg)](https://github.com/bpmn-io/bpmn-js-properties-panel/actions?query=workflow%3ACI)
