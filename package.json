@@ -1,6 +1,6 @@
 {
   "name": "bpmn-js-custom-panel",
-  "version": "0.43.1",
+  "version": "0.0.1",
   "description": "bpmn-js-custom-panel",
   "scripts": {
     "lint": "eslint .",
